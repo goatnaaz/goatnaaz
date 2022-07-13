@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Nazar 👋
+I am just a guy who is passionate to programming , who learning java and wwant to became a good developer and this profile for my own projects which will help me to reach experience . Hope you will enjoy it.
 
-<!--
-**goatnaaz/goatnaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+   
+<p align='center'>
+   📫 How to reach me: <a href='mailto:nazar.kozlovsky@gmail.com'>nazar.kozlovsky@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠 Technical Stack
+*   Java
+*    PostgreSQL, Flyway
+*   Spring Framework, Spring Boot, Spring Data Jpa.
+*   GitHub
+
+
